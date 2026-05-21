@@ -9,18 +9,20 @@ Aplicação que consolida vários arquivos `.xlsx` de uma pasta em uma única pl
 Há duas versões disponíveis. Escolha a que melhor se encaixa no seu perfil:
 
 ### ✅ Versão Portátil (recomendada para a maioria dos usuários)
-**`agrupador-windows.zip`**
+📥 **[Baixar `agrupador-windows.zip`](https://github.com/JoaoFinazzi/agrupador-planilhas-dist/releases/download/v1.0.0/agrupador-windows.zip)**
 
 - Não requer instalação de Python
 - Basta extrair o zip e dar duplo-clique em `iniciar.bat`
 - Pronto para usar em ~5 segundos
 
 ### 🛠️ Versão Manual (para usuários avançados)
-**`agrupador-windows-manual.zip`**
+📥 **[Baixar `agrupador-windows-manual.zip`](https://github.com/JoaoFinazzi/agrupador-planilhas-dist/releases/download/v1.0.0/agrupador-windows-manual.zip)**
 
 - Requer Python 3.12 instalado separadamente
 - Instalação via `pip` em ambiente virtual isolado
 - Indicada para quem já usa Python ou precisa de mais controle sobre o ambiente
+
+> Veja sempre a versão mais recente na [página de Releases](https://github.com/JoaoFinazzi/agrupador-planilhas-dist/releases).
 
 ---
 
